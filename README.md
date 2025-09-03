@@ -8,3 +8,5 @@
 
 ## Как открыть
 Открой любой `*.playground` в Xcode и нажми ▶️ (Run).
+
+- [Task 003](Task-003.playground/Contents.swift)
