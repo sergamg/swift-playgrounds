@@ -3,7 +3,6 @@
 
 // Д/з 1
 
-
 //Int
 //UInt
 //Float
@@ -28,3 +27,19 @@ print("Максимальное значение Float:", Float.greatestFiniteMa
 //Double
 print("Минимальное значение Double:", -Double.greatestFiniteMagnitude)
 print("Максимальное значение Double:", Double.greatestFiniteMagnitude)
+
+
+// Д/з 2
+
+let numInt: Int = 15
+let numFloat: Float = 25.35322
+let numDouble: Double = 35.6323411
+let sumNumInt: Int = numInt + Int(numFloat) + Int(numDouble)
+let sumNumFloat: Float = Float(numInt) + numFloat + Float(numDouble)
+let sumNumDouble: Double = Double(numInt) + Double(numFloat) + numDouble
+
+
+// Д/з 3
+
+print(sumNumInt == Int(sumNumDouble))
+print(Double(sumNumInt) == sumNumDouble)
