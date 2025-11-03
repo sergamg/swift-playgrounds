@@ -10,6 +10,7 @@
 - [Task 005](Task-005.playground/Contents.swift)
 - [Task 006](Task-006.playground/Contents.swift)
 - [Task 007](Task-007.playground/Contents.swift)
+- [Task 008](Task-008.playground/Contents.swift)
 
 ## Как открыть
 Открой любой `*.playground` в Xcode и нажми ▶️ (Run).
